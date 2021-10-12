@@ -1,0 +1,5 @@
+Pesquisar por variáveis de ambiente > Na tela que abre, clicar em "Variáveis de Ambiente" > Na tabela de baixo dê um clique duplo em Path > Clique em Procurar > Aí você procura o caminho do arquivo do programa.
+
+Normalmente o caminho do arquivo do programa pode ser esse:
+
+Clique em Este computador > (C:) > Arquivos de Programas > Procura o nome do programa
